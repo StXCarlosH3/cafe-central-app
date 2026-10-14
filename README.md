@@ -28,3 +28,4 @@ Permite llevar un mejor control de los pedidos, evitar confusiones y mejorar la 
 Proyecto en desarrollo escolar.
 
 El proyecto busca mejorar la organización de los pedidos de Café Central.
+El equipo trabajará mediante tareas organizadas por etapas.
