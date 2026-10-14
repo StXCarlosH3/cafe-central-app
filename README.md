@@ -1,4 +1,4 @@
-# cafe-central-app# Café Central - Sistema de pedidos
+# Café Central - Sistema de pedidos
 
 ## Descripción
 Aplicación para organizar y administrar los pedidos de una cafetería, facilitando el registro de productos y el seguimiento de las órdenes.
@@ -16,11 +16,11 @@ Permite llevar un mejor control de los pedidos, evitar confusiones y mejorar la 
 - Carlos david demetro munive 
 - cristofer dorian bazar miranda
 - Dafne guadalupe 
-- Stefany .
+- Stefany
 
 ## Tecnologías que podrían utilizarse
 - HTML
-- trello
+- Trello
 - Jira
 - GitHub para el control de versiones.
 
